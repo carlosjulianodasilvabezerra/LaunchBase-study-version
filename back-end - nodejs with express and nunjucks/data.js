@@ -3,7 +3,8 @@ module.exports = [
     id: "Fbu7z5dXcRs",
     title: "SQL no Node.js com Sequelize",
     duration: "1:140:21 hrs",
-    price: "Free"
+    price: "Free",
+    featured: true
   },
   {
     id: "3tB0uDliS6Y",
@@ -21,7 +22,8 @@ module.exports = [
     id: "-c57D2kQffQ",
     title: "Automatizando padrões de código com Husky + lint-staged",
     duration: "22:03 min",
-    price: "Free"
+    price: "Free",
+    featured: true
   },
   {
     id: "eSjFDWYkdxM",
@@ -33,6 +35,7 @@ module.exports = [
     id: "bg-U0xZwcRk",
     title: "Clonando interface do Uber com React Native",
     duration: "1:23 hrs",
-    price: "Free"
+    price: "Free",
+    featured: true
   }
 ]

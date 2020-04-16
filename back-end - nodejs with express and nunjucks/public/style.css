@@ -94,6 +94,7 @@ header div {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 20px;
+  cursor: pointer;
 
 }
 
@@ -167,4 +168,20 @@ iframe {
   height: 90%; 
   position: absolute;
   top: 5%;
+}
+
+/* === FEATURED === */
+.featured-wrapper.card_image-container {
+  position: relative;
+}
+
+.featured {
+  position: relative;
+  background: #f7d05f;
+  color: #111;
+  padding: 2px 8px;
+  position: absolute;
+  left: 5px;
+  border-radius: 16px;
+  top: -10px
 }
